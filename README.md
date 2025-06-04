@@ -29,13 +29,13 @@ Contact (How to reach out or connect on socials)
 
 ## 🛠 Tech Stack
 
-# 🧱 HTML
+ 🧱 HTML
 
-# 🎨 CSS (Custom properties & responsive layout)
+ 🎨 CSS (Custom properties & responsive layout)
 
-# ⚙️ JavaScript (Vanilla for interactivity)
+ ⚙️ JavaScript (Vanilla for interactivity)
 
-# 💻 GitHub Pages (for deployment)
+ 💻 GitHub Pages (for deployment)
 
 ## 📌 Why We Built This
 To represent our SHPE chapter in a modern, engaging way
