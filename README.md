@@ -8,7 +8,7 @@ Smooth scrolling navigation
 
 Mobile menu for smaller devices
 
-Embedded Instagram-style design (planned/optional)
+Embedded Instagram-style design (Still in progress)
 
 Fully customizable with HTML, CSS & JS
 
@@ -19,9 +19,11 @@ Home (Welcome & mission)
 
 About Us (Chapter goals and community)
 
-Events (Upcoming & past SHPE activities)
+Leadership (Exec-Board and Committee Board)
 
-Join Us (Membership info and call-to-action)
+Programs (Programs we offer)
+
+Events (Upcoming & past SHPE activities)
 
 Contact (How to reach out or connect on socials)
 
