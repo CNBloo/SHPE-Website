@@ -1,7 +1,7 @@
-🏛️ SHPE at Indiana University – Chapter Website
+## 🏛️ SHPE at Indiana University – Chapter Website
 A modern, responsive web platform for the Society of Hispanic Professional Engineers at Indiana University. Designed to showcase chapter events, leadership, and resources while reflecting our mission of empowering Hispanic students in STEM.
 
-🧠 Features
+## 🧠 Features
 Sleek and responsive multi-section layout
 
 Smooth scrolling navigation
@@ -14,7 +14,7 @@ Fully customizable with HTML, CSS & JS
 
 Clean, modern UI optimized for accessibility
 
-🌐 Pages & Sections
+## 🌐 Pages & Sections
 Home (Welcome & mission)
 
 About Us (Chapter goals and community)
@@ -25,16 +25,17 @@ Join Us (Membership info and call-to-action)
 
 Contact (How to reach out or connect on socials)
 
-🛠 Tech Stack
-🧱 HTML5
+## 🛠 Tech Stack
 
-🎨 CSS3 (Custom properties & responsive layout)
+# 🧱 HTML
 
-⚙️ JavaScript (Vanilla for interactivity)
+# 🎨 CSS (Custom properties & responsive layout)
 
-💻 GitHub Pages (for deployment)
+# ⚙️ JavaScript (Vanilla for interactivity)
 
-📌 Why We Built This
+# 💻 GitHub Pages (for deployment)
+
+## 📌 Why We Built This
 To represent our SHPE chapter in a modern, engaging way
 
 To share upcoming events, initiatives, and photos
