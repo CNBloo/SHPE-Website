@@ -456,6 +456,100 @@ nav {
     color: var(--text-light);
 }
 
+/* Development Team Section */
+.dev-team {
+    background: var(--white);
+}
+
+.dev-team-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2.5rem;
+}
+
+.dev-card {
+    background: linear-gradient(135deg, var(--white), rgba(248, 249, 250, 0.8));
+    border-radius: 25px;
+    padding: 2.5rem;
+    text-align: center;
+    box-shadow: var(--shadow);
+    transition: all 0.4s ease;
+    position: relative;
+    overflow: hidden;
+    border: 1px solid rgba(30, 60, 114, 0.1);
+}
+
+.dev-card:hover {
+    transform: translateY(-10px);
+    box-shadow: var(--shadow-hover);
+}
+
+.dev-image {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    background: linear-gradient(135deg, var(--primary-blue), var(--primary-orange));
+    margin: 0 auto 1.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2rem;
+    color: white;
+    font-weight: 700;
+    box-shadow: 0 10px 30px rgba(30, 60, 114, 0.3);
+    transition: all 0.3s ease;
+}
+
+.dev-card:hover .dev-image {
+    transform: scale(1.1) rotate(5deg);
+    box-shadow: 0 15px 40px rgba(30, 60, 114, 0.4);
+}
+
+.dev-name {
+    font-size: 1.4rem;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+    color: var(--primary-blue);
+}
+
+.dev-role {
+    color: var(--primary-orange);
+    font-weight: 600;
+    margin-bottom: 1rem;
+    text-transform: uppercase;
+    font-size: 0.9rem;
+    letter-spacing: 1px;
+}
+
+.dev-card p {
+    color: var(--text-light);
+    margin-bottom: 1.5rem;
+    line-height: 1.6;
+}
+
+.dev-skills {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    justify-content: center;
+}
+
+.dev-skills span {
+    background: rgba(30, 60, 114, 0.1);
+    color: var(--primary-blue);
+    padding: 0.4rem 1rem;
+    border-radius: 20px;
+    font-size: 0.9rem;
+    font-weight: 500;
+    transition: all 0.3s ease;
+}
+
+.dev-skills span:hover {
+    background: var(--primary-blue);
+    color: white;
+    transform: translateY(-2px);
+}
+
 /* Events Section */
 .events {
     background: var(--white);
